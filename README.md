@@ -15,3 +15,8 @@ A minimal tools built with Go. It will update Code server extensions from Micros
 - Execute `main.go` file
 - Script download `vsix` latest file from MS Server
 - Use install via `vsix` file for `code-server`
+
+## Give for me a coffee
+
+https://paypal.me/und3fined
+
