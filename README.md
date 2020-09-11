@@ -13,3 +13,5 @@ A minimal tools built with Go. It will update Code server extensions from Micros
 - Get source code `git clone https://github.com/und3fined/code-server-extensions.git`
 - Change `GistID` in `main.go`
 - Execute `main.go` file
+- Script download `vsix` latest file from MS Server
+- Use install via `vsix` file for `code-server`
